@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "Surt";
+  font-weight: normal;
+  font-style: normal;
+  src: url("./fonts/Surt-Light.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Surt";
+  font-weight: 600;
+  font-style: normal;
+  src: url("./fonts/Surt-Medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Chronicle Display";
+  font-weight: normal;
+  font-style: italic;
+  src: url("./fonts/ChronicleDisp-Italic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Reckless Neue TRIAL";
+  font-weight: normal;
+  font-style: italic;
+  src: url("./fonts/RecklessNeueTRIAL-BookItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Test Pitch";
+  src: url("./fonts/TestPitch-Semibold.otf") format("opentype");
+  font-weight: normal;
+}
